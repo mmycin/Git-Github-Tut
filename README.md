@@ -5,3 +5,4 @@ Simply run the following commands
 $ pip install -r requirements.txt
 $ python app.py
 ```
+Now open your browser and point to `https://localhost:50000` and watch the webpage
